@@ -3,7 +3,7 @@
 # 🚀 iOS Developer Roadmap
 Roadmap to becoming an iOS developer in 2020.
 
-## ☝️ What is it?
+## ☝ What is it?
 This is a tree-like compilation of topics highly relevant to iOS development.
 
 ## 👨‍🎓 How to use this roadmap
