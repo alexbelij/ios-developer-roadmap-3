@@ -1,4 +1,4 @@
-![Header image](swift5-roadmap.png)
+![Swift5 Roadmap](swift5-roadmap.png)
 
 # 🚀 iOS Developer Roadmap
 Roadmap to becoming an iOS developer in 2020.
